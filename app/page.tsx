@@ -12,10 +12,11 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
-  // other metadata
+  title: "Jabdu Software - Empowering Innovation with Custom Software Solutions",
+  description: "Explore the home of Jabdu Software, where we specialize in crafting bespoke software solutions, from embedded systems and AI to web, desktop, bot, mobile apps, TV apps, and more.",
+ 
 };
+
 
 export default function Home() {
   return (
