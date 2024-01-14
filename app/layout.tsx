@@ -32,7 +32,7 @@ export default function RootLayout({
         </Providers>
       </body>
     </html>
-  );
+  ); 
 }
 
 import { Providers } from "./providers";
